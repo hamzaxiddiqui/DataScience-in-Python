@@ -1,0 +1,13 @@
+this file contains three ipynb file that is the code of DS model implementation for practice purpose:
+
+In Activity-01 File:
+implementation of KNN,Decision tree & linear regression model with KFold validation 
+for boston house price (for prediction) 
+
+In Activity-02 File:
+implementation of KNN,Decision tree & Naive_bayes(GaussianNB) model with KFold validation 
+for iris dataset (for classification )
+
+In Activity-03 File:
+implementation of KNN,Decision tree & Naive_bayes(GaussianNB) model with KFold validation 
+for wine dataset (for classification )
